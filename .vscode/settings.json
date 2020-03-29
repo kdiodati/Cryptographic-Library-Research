@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "aes.h": "c",
+        "rsa.h": "c",
+        "sha256.h": "c",
+        "stdio.h": "c",
+        "options.h": "c",
+        "settings.h": "c",
+        "ecc.h": "c"
+    }
+}
